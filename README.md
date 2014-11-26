@@ -25,4 +25,4 @@ bem diretos e simples</p>
 <p><em>truco.jar</em> está dentro do diretório <em>lib</em></p>
 
 <h3>Dica</h3>
-<p>Para não precisar usar esses comandos java apenas crie um script (sh, bash, ect) nos sistemas baseados em Unix ou crie um arquivo batch no Windows</p>
+<p>Para não precisar usar esses comandos java para iniciar o cliente e o servidor apenas crie um script (sh, bash, ect) nos sistemas baseados em Unix ou crie um arquivo batch no Windows</p>
