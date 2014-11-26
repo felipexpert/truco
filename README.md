@@ -15,8 +15,9 @@ a senha para conectar e a modalidade. Quando tudo estiver certo você receberá 
 <p>Logo você verá o lobby, onde é apresentados os jogadores que estão
 logados.</p>
 <p><strong>Jogando: </strong>este jogo flui com os comandos que os 
-jogadores inserem no canal de chat (os comandos começam com &lt e 
-terminam com &gt), para ver os comandos digite o comando de ajuda 
+jogadores inserem no canal de chat (os comandos começam com o simbolo
+de "menor que" e terminam com o simbolo de "maior que"), para ver os 
+comandos digite o comando de ajuda 
 <strong>/help</strong>, logo então na parte superior hle será 
 apresentado a relação dos comandos. Você perceberá que eles são
 bem diretos e simples</p>
