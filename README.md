@@ -10,8 +10,7 @@ Truco dos Amigos
 a senha para conectar e a modalidade. Quando tudo estiver certo você receberá a mensagem "Servidor rodando na porta 5000"</p>
 
 <h2>Executando o Cliente</h2>
-<p>Para executar o cliente basta dar 2 cliquesno arquivo</p>
-<p style="text-align: center;">ou</p>
+<p>Para executar o cliente basta dar 2 cliques no arquivo ou usar o comando:</p>
 <pre>java -cp truco.jar miquilini.felipe.clienteSwing.ClienteSwing</pre>
 <p>Pedirá para inserir o ip, a porta, a senha e uma identificação.</p>
 <p>Logo você verá o lobby, onde é apresentados os jogadores que estão
